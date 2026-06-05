@@ -16,7 +16,7 @@ This folder contains the programs I created while learning Object-Oriented Progr
 
 ## Programs
 
-* StudentDemo.java
+* OOPbasics.java
 * OOPMethodDemo.java
 * ConstructorDemo.java
 * EncapsulationDemo.java
