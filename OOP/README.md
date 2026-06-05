@@ -4,7 +4,7 @@ This folder contains the programs I created while learning Object-Oriented Progr
 
 ## Topics Learned
 
-* Class and Object
+* Class and Object 
 * Creating Multiple Objects
 * Methods Inside Class
 * Default Constructor
