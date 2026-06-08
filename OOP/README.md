@@ -23,6 +23,13 @@ This folder contains the programs I created while learning Object-Oriented Progr
 * Multi-Level Inheritance
 * Runtime Polymorphism
 * super Keyword
+* Upcasting
+* Downcasting
+* Runtime Polymorphism
+* Method Overriding Revisited
+* instanceof Operator
+* Polymorphism with Arrays
+* Polymorphism with Method Parameters
 
 ## Programs
 
@@ -39,6 +46,12 @@ This folder contains the programs I created while learning Object-Oriented Progr
 * multiLevelInheritance.java
 * RuntimePolymorphismDemo.java
 * superKeyword.java
+* UpcastingDemo.java
+* DowncastingDemo.java
+* AnimalArrayDemo.java
+* ZooDemo.java
+* EmployeePolymorphismDemo.java
+* PolymorphismCompleteDemo.java
 
 ## What I Learned
 
@@ -58,6 +71,26 @@ This folder contains the programs I created while learning Object-Oriented Progr
 * Basics of runtime polymorphism.
 * Difference between reference type and object type.
 * How Java selects overridden methods at runtime.
+* Difference between reference type and object type.
+* How runtime polymorphism works in Java.
+* How overridden methods are resolved at runtime.
+* Use of upcasting and downcasting.
+* Safe type checking using instanceof.
+* Using arrays to store different child objects.
+* Applying polymorphism through method parameters.
+* How polymorphism improves code flexibility and reusability.
+
+## Current Progress
+
+* Class and Object
+* Methods
+* Constructors
+* Encapsulation
+* Inheritance
+* Method Overriding
+* Runtime Polymorphism
+* Upcasting
+* Downcasting
 
 
 More OOP concepts will be added as I continue learning Java.
