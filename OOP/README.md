@@ -30,6 +30,13 @@ This folder contains the programs I created while learning Object-Oriented Progr
 * instanceof Operator
 * Polymorphism with Arrays
 * Polymorphism with Method Parameters
+* Abstraction
+- Abstract Class
+- Abstract Method
+- Constructors in Abstract Classes
+- Abstract and Normal Methods Together
+- Multi-Level Abstraction
+- Abstraction with Runtime Polymorphism
 
 ## Programs
 
@@ -52,6 +59,12 @@ This folder contains the programs I created while learning Object-Oriented Progr
 * ZooDemo.java
 * EmployeePolymorphismDemo.java
 * PolymorphismCompleteDemo.java
+* AbstractionDemo.java
+- AbstractMethodDemo.java
+- AbstractAndNormalMethodDemo.java
+- AbstractConstructorDemo.java
+- AbstractionWithPolymorphismDemo.java
+- MultiLevelAbstractDemo.java
 
 ## What I Learned
 
@@ -79,6 +92,14 @@ This folder contains the programs I created while learning Object-Oriented Progr
 * Using arrays to store different child objects.
 * Applying polymorphism through method parameters.
 * How polymorphism improves code flexibility and reusability.
+* Abstract classes cannot be instantiated directly.
+- Abstract methods do not have a method body.
+- Child classes must implement abstract methods unless they are also abstract.
+- Abstract classes can contain constructors.
+- Abstract classes can have both abstract and normal methods.
+- Runtime polymorphism works with abstract classes.
+- Multi-level abstraction is possible in Java.
+- Abstract classes are used to define common rules for child classes.
 
 ## Current Progress
 
@@ -91,6 +112,9 @@ This folder contains the programs I created while learning Object-Oriented Progr
 * Runtime Polymorphism
 * Upcasting
 * Downcasting
+- Abstraction
+- Abstract Class
+- Abstract Method
 
 
 More OOP concepts will be added as I continue learning Java.
