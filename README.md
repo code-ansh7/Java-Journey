@@ -31,10 +31,10 @@
 ✅ Array Exceptions
 ✅ Input Exceptions
 ✅ Multiple Catch Blocks
+✅ Finally block
 
 ### Upcoming Topics
 
-🔄 finally Block
 🔄 throw & throws
 🔄 Custom Exceptions
 🔄 Collections Framework
