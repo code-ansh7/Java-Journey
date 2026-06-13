@@ -32,6 +32,7 @@
 ✅ Input Exceptions
 ✅ Multiple Catch Blocks
 ✅ Finally block
+✅ throw & throws
 
 ### Upcoming Topics
 
