@@ -33,10 +33,10 @@
 ✅ Multiple Catch Blocks
 ✅ Finally block
 ✅ throw & throws
+✅ Custom Exceptions 
 
 ### Upcoming Topics
 
-🔄 Custom Exceptions
 🔄 Collections Framework
 🔄 File Handling
 🔄 Java Projects
