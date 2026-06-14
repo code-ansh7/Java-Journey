@@ -159,9 +159,6 @@ This folder contains the programs I created while learning Object-Oriented Progr
 
 ### Upcoming Topics
 
-🔄 Exception Handling
-🔄 Collections Framework
-🔄 File Handling
 🔄 Mini Java Projects
 🔄 DSA with Java
 
