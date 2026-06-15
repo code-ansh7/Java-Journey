@@ -40,8 +40,22 @@
 * InvalidMarksException
 * InvalidPasswordException
 * Application Specific Exception Handling
+* Exception Handling Revision
+* Real World Exception Handling
+* Custom Exception Revision
+* throw Keyword Revision
+* throws Keyword Revision
+* Exception Propagation Revision
+* InputMismatchException
+* Input Buffer Concept
+* sc.nextLine() Usage
+* e vs e.getMessage()
+* Exception Object Creation
+* Real World Validation Programs
+* Exception Handling Dry Run Analysis
+* Exception Handling Best Practices
 
-### Programs Added
+### Programs Added : 23
 
 * ArithmeticExceptionDemo.java
 * ArrayExceptionDemo.java
@@ -61,6 +75,11 @@
 * BankManagement.java
 * StudentMarksValidator.java
 * LoginSystem.java
+* ExceptionHandlingMasterDemo.java
+* InputMismatchDemo.java
+* MovieTicketBooking.java
+* NextLineConceptDemo.java
+* OnlineShopping.java
 
 ### What I Learned
 
@@ -96,6 +115,18 @@
 * e.getMessage() returns the custom message passed to the exception object.
 * Custom Exceptions make programs more meaningful and user-friendly.
 * Exception Handling can be used to implement real-world validations.
+* Custom Exceptions can be used for real-world business rules.
+* throw creates an exception object manually.
+* throws only declares a possible exception.
+* e prints the complete exception information.
+* e.getMessage() prints only the exception message.
+* InputMismatchException occurs when input type does not match expected type.
+* Some exceptions return null with e.getMessage().
+* sc.nextLine() is used to clear leftover input from the buffer.
+* sc.nextLine() is commonly used after nextInt(), nextFloat(), and nextDouble().
+* finally block executes whether an exception occurs or not.
+* Exception Handling can be used to build more user-friendly applications.
+* Dry running exception flow helps in understanding program execution.
 
 ### Status
 
@@ -123,11 +154,13 @@
 ✅ Bank Balance Validation Completed
 ✅ Marks Validation Completed
 ✅ Password Validation Completed
-
-### Next Topic
-
-* Mixed Exception Handling Questions
-* Output Prediction Questions
-* Exception Handling Revision
-* Exception Handling Mastery
-* Advanced Practice Programs
+✅ Exception Handling Revision Completed
+✅ Custom Exception Revision Completed
+✅ InputMismatchException Completed
+✅ sc.nextLine() Concept Completed
+✅ Real World Exception Programs Completed
+✅ Exception Object Understanding Completed
+✅ e vs e.getMessage() Completed
+✅ Exception Handling Dry Run Practice Completed
+✅ ExceptionHandlingMasterDemo Completed
+🏆 Exception Handling Module Completed
