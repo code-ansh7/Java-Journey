@@ -1,4 +1,10 @@
-## Current Progress
+ # Java Learning Journey 🚀
+
+This repository contains my Java learning journey, daily practice programs, concept implementations, and mini-projects. The goal of this repository is to build a strong foundation in Core Java while maintaining consistency through daily coding practice.
+
+---
+
+## 📚 Current Progress
 
 ### Java Fundamentals
 
@@ -10,7 +16,9 @@
 ✅ Arrays
 ✅ Strings
 
-### Object Oriented Programming
+---
+
+### Object-Oriented Programming (OOP)
 
 ✅ Classes and Objects
 ✅ Constructors
@@ -23,21 +31,82 @@
 ✅ Abstraction
 ✅ Interfaces
 
+---
+
 ### Exception Handling
 
 ✅ Exception Basics
-✅ try-catch
+✅ try-catch Blocks
 ✅ ArithmeticException
 ✅ Array Exceptions
 ✅ Input Exceptions
 ✅ Multiple Catch Blocks
-✅ Finally block
+✅ finally Block
 ✅ throw & throws
-✅ Custom Exceptions 
+✅ Custom Exceptions
 
-### Upcoming Topics
+---
 
-🔄 Collections Framework
+### Collections Framework
+
+✅ ArrayList Basics
+
+---
+
+## 🛠 Practice Programs
+
+This repository includes:
+
+* Concept-based Java programs
+* Output prediction exercises
+* Exception handling scenarios
+* Real-world validation programs
+* Collection framework practice
+* Revision programs with detailed comments
+
+---
+
+## 🎯 Learning Approach
+
+* Daily coding practice
+* Concept-first learning
+* Hands-on implementation
+* GitHub progress tracking
+* Revision-focused programs
+* Real-world problem solving
+
+---
+
+## 🚀 Upcoming Topics
+
+🔄 LinkedList
+🔄 HashSet
+🔄 HashMap
 🔄 File Handling
-🔄 Java Projects
-🔄 DSA with Java
+🔄 Java Mini Projects
+🔄 Collections Framework Advanced Concepts
+
+---
+
+## 📈 Current Status
+
+**Core Java Progress:** In Progress
+
+Completed major modules:
+
+* Java Fundamentals ✅
+* Object-Oriented Programming ✅
+* Exception Handling ✅
+* Collections Framework (Started) ✅
+
+Currently Learning:
+
+* Collections Framework 🚀
+
+---
+
+## 👨‍💻 Author
+
+**Ansh Rastogi**
+
+Building strong Java fundamentals through consistent daily practice and project-based learning.
