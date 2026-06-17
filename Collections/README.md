@@ -30,6 +30,6 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 ### HashMap ⬜ Pending
 
 ## Current Status
-🚀 Collections Framework Started
+🚀 Collections Framework Advanced
 
-## Problem Splved : 6
+## Problem Splved : 10
