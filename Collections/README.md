@@ -23,13 +23,30 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 
 ### ArrayList ✅ Completed
 
-### LinkedList ⬜ Pending
+### LinkedList 🔄 In Progress
 
 ### HashSet ⬜ Pending
 
 ### HashMap ⬜ Pending
 
-## Current Status
-🚀 Collections Framework Advanced
+## Current Progress
 
-## Problem Splved : 10
+### ArrayList
+
+✅ Creation
+✅ Traversal
+✅ Searching
+✅ Sorting
+✅ Real World Programs
+
+### LinkedList
+
+✅ Introduction
+✅ Basic Methods
+✅ Special Methods
+✅ Real World Programs
+
+## Current Status
+🚀 Collections Framework in Progress...
+
+## Problem Splved : 14
