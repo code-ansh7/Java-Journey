@@ -8,7 +8,7 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 ## Topics Covered
 
 * ArrayList
-* LinkedList (Upcoming)
+* LinkedList
 * HashSet (Upcoming)
 * HashMap (Upcoming)
 
@@ -22,11 +22,8 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 ## Progress
 
 ### ArrayList ✅ Completed
-
-### LinkedList 🔄 In Progress
-
+### LinkedList ✅ Completed
 ### HashSet ⬜ Pending
-
 ### HashMap ⬜ Pending
 
 ## Current Progress
@@ -39,14 +36,32 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 ✅ Sorting
 ✅ Real World Programs
 
-### LinkedList
+ ### LinkedList
 
-✅ Introduction
-✅ Basic Methods
+✅ Creation
+✅ Traversal
+✅ Searching
 ✅ Special Methods
 ✅ Real World Programs
 
 ## Current Status
 🚀 Collections Framework in Progress...
 
-## Problem Splved : 14
+### Completed Modules:
+
+ArrayList ✅
+LinkedList ✅
+
+### Upcoming Modules:
+
+HashSet
+HashMap
+
+### Learning Outcome
+* Learned dynamic data structures in Java.
+* Implemented real-world collection based programs.
+* Performed searching, sorting and traversal operations.
+* Understood differences between ArrayList and LinkedList.
+* Practiced user-input based collection programs.
+  
+## Problem Splved : 18
