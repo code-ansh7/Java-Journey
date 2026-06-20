@@ -23,7 +23,7 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 
 ### ArrayList ✅ Completed
 ### LinkedList ✅ Completed
-### HashSet ⬜ Pending
+### HashSet 🔄 In progress...
 ### HashMap ⬜ Pending
 
 ## Current Progress
@@ -44,6 +44,15 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 ✅ Special Methods
 ✅ Real World Programs
 
+### HashSet
+
+✅ Creation
+✅ Duplicate Removal
+✅ Searching
+✅ Removal Operations
+✅ Traversal
+✅ Real World Programs
+
 ## Current Status
 🚀 Collections Framework in Progress...
 
@@ -51,10 +60,10 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 
 ArrayList ✅
 LinkedList ✅
+HashSet 🔄
 
 ### Upcoming Modules:
 
-HashSet
 HashMap
 
 ### Learning Outcome
@@ -63,5 +72,6 @@ HashMap
 * Performed searching, sorting and traversal operations.
 * Understood differences between ArrayList and LinkedList.
 * Practiced user-input based collection programs.
+* Learned duplicate handling using HashSet.
   
-## Problem Splved : 18
+## Problem Splved : 23
