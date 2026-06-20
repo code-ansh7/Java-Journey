@@ -9,7 +9,7 @@ Unlike arrays, collection classes can grow and shrink automatically at runtime.
 
 * ArrayList
 * LinkedList
-* HashSet (Upcoming)
+* HashSet 
 * HashMap (Upcoming)
 
 ## Why Collections?
