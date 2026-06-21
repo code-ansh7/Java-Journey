@@ -1,77 +1,123 @@
-# Collections Framework
+ # Collections Framework
 
 ## Introduction
 
-The Collections Framework is a powerful part of Java used to store and manage groups of objects dynamically.
-Unlike arrays, collection classes can grow and shrink automatically at runtime.
+The Collections Framework is used to store and manage groups of objects dynamically in Java.
+
+Collections provide flexible and powerful data structures compared to traditional arrays.
 
 ## Topics Covered
 
-* ArrayList
-* LinkedList
-* HashSet 
-* HashMap (Upcoming)
+### ArrayList
 
-## Why Collections?
+✅ Completed
 
-* Dynamic Size
-* Easy Data Management
-* Built-in Utility Methods
-* Better than Traditional Arrays in Many Scenarios
+### LinkedList
 
-## Progress
+✅ Completed
 
-### ArrayList ✅ Completed
-### LinkedList ✅ Completed
-### HashSet 🔄 In progress...
-### HashMap ⬜ Pending
+### HashSet
+
+✅ Completed
+
+### HashMap
+
+✅ Completed
 
 ## Current Progress
 
 ### ArrayList
 
-✅ Creation
+✅ Dynamic Array Concept
+
 ✅ Traversal
+
 ✅ Searching
+
 ✅ Sorting
+
+✅ User Input
+
 ✅ Real World Programs
 
- ### LinkedList
+### LinkedList
 
-✅ Creation
+✅ Node Based Structure
+
 ✅ Traversal
+
 ✅ Searching
+
 ✅ Special Methods
+
+✅ User Input
+
 ✅ Real World Programs
 
 ### HashSet
 
-✅ Creation
+✅ Unique Elements
+
 ✅ Duplicate Removal
+
 ✅ Searching
-✅ Removal Operations
+
 ✅ Traversal
+
+✅ User Input
+
 ✅ Real World Programs
 
-## Current Status
-🚀 Collections Framework in Progress...
+### HashMap
 
-### Completed Modules:
+✅ Key-Value Pairs
 
-ArrayList ✅
-LinkedList ✅
-HashSet 🔄
+✅ Searching
 
-### Upcoming Modules:
+✅ Traversal
 
-HashMap
+✅ Key Operations
 
-### Learning Outcome
+✅ Value Operations
+
+✅ User Input
+
+✅ Real World Programs
+
+## Learning Outcome
+
 * Learned dynamic data structures in Java.
-* Implemented real-world collection based programs.
-* Performed searching, sorting and traversal operations.
-* Understood differences between ArrayList and LinkedList.
-* Practiced user-input based collection programs.
+* Practiced real-world collection-based programs.
+* Learned searching and traversal techniques.
+* Understood differences between ArrayList, LinkedList, HashSet and HashMap.
 * Learned duplicate handling using HashSet.
+* Learned key-value data management using HashMap.
+* Improved problem-solving using collections.
+
+## Completed Modules
+
+✅ ArrayList
+
+✅ LinkedList
+
+✅ HashSet
+
+✅ HashMap
+
+🏆 Collections Framework Completed
+
+## Next Topic
+
+📂 File Handling
+
+### Upcoming Concepts
+
+* File Creation
+* File Reading
+* File Writing
+* File Deletion
+* Working with Text Files
+* File Based Mini Projects
+
   
-## Problem Splved : 23
+## Problem Splved : 28
