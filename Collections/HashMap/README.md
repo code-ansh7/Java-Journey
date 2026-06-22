@@ -67,8 +67,3 @@
 ✅ HashMap Final Revision Completed
 
 🏆 HashMap Basics Completed
-
-### Next Topic
-
-* Collections Framework Final Revision
-* File Handling
