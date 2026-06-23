@@ -91,6 +91,64 @@ This repository includes:
 
 **Core Java Progress:** In Progress
 
+``` text
+Java Journey
+│
+├── Functions
+│   ├── Programs.java
+│   └── README.md
+│
+├── if-else
+│   ├── Programs.java
+│   └── README.md
+│
+├── loops
+│   ├── Programs.java
+│   └── README.md
+│
+├── patterns
+│   ├── Programs.java
+│   └── README.md
+│
+├── String
+│   ├── Programs.java
+│   └── README.md
+│
+├── Array
+│   ├── Programs.java
+│   └── README.md
+│
+├── OOP
+│   │
+│   ├── Basics
+│   ├── Encapsulation
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Abstraction
+│   └── README.md
+│
+├── Exception Handling
+│   ├── Programs.java
+│   └── README.md
+│
+├── Collections
+│   │
+│   ├── ArrayList
+│   ├── LinkedList
+│   ├── HashSet
+│   ├── HashMap
+│   └── README.md
+│
+├── File Handling
+│   │
+│   ├── Basics
+│   ├── File Writing
+│   ├── File Reading
+│   ├── File Append
+│   └── README.md
+│
+└── README.md
+```
 Completed major modules:
 
 * Java Fundamentals ✅
