@@ -49,7 +49,10 @@ This repository contains my Java learning journey, daily practice programs, conc
 
 ### Collections Framework
 
-✅ ArrayList Basics
+✅ ArrayList Completed
+✅ LinkedList Completed
+✅ HashSet Completed
+✅ HashMao Completed
 
 ---
 
@@ -79,13 +82,9 @@ This repository includes:
 
 ## 🚀 Upcoming Topics
 
-🔄 LinkedList
-🔄 HashSet
-🔄 HashMap
 🔄 File Handling
 🔄 Java Mini Projects
-🔄 Collections Framework Advanced Concepts
-
+ 
 ---
 
 ## 📈 Current Status
