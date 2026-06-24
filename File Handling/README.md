@@ -1,92 +1,117 @@
-# File Handling 📂
+ # 📂 File Handling in Java
 
-File Handling is used to store, retrieve and manage data permanently using files.
+This module contains Java programs that demonstrate how to work with files using Java's File Handling API.
 
-## Modules
+## 🎯 Topics Covered
 
-### Basics ✅
+### 📁 File Basics
+- Creating File Objects
+- Checking File Existence
+- Creating New Files
+- Getting File Name
+- Getting Absolute File Path
 
-* File Class
-* File Object Creation
-* createNewFile()
-* exists()
-* getName()
-* getAbsolutePath()
-* IOException
-* throws Keyword
+### ✍️ File Writing
+- Writing Text to Files
+- Writing Multiple Lines
+- Writing Characters
+- Writing ASCII Values
+- Taking User Input and Storing in Files
 
-### File Writing ⏳
+---
 
-* FileWriter
-* Writing Text To Files
-* User Input To File
+## 📚 Concepts Learned
 
-### File Reading ⏳
+### File Class
 
-* FileReader
-* Scanner With Files
-* Reading Data From Files
+Used to represent files and directories.
 
-### File Append ⏳
+Important Methods:
 
-* Appending Data To Existing Files
-* Maintaining Records
+```java
+exists()
+createNewFile()
+getName()
+getAbsolutePath()
+```
 
-### Projects ⏳
+### FileWriter Class
 
-* Student Record Storage
-* Contact Book Storage
-* Expense Tracker Storage
-* Library Data Storage
+Used to write data into files.
 
-## Learning Outcome
+Important Methods:
 
-* Understand file operations in Java.
-* Create and manage files programmatically.
-* Store data permanently.
-* Read and write information using files.
-* Apply file handling concepts in real-world projects.
+```java
+write()
+close()
+```
 
-## Current Progress
+---
 
-### Basics
-
-✅ Completed
-
-### File Writing
-
-🔄 Upcoming
-
-### File Reading
-
-🔄 Upcoming
-
-### File Append
-
-🔄 Upcoming
-
-### Projects
-
-🔄 Upcoming
-
-## Folder Structure
+## 📂 Folder Structure
 
 ```text
 File Handling
 │
 ├── Basics
+│   ├── FileInfo.java
+│   ├── FileExistChecker.java
+│   ├── CreateFileDemo.java
+│   ├── FileHandlingRevision.java
+│   └── README.md
+│
 ├── File Writing
-├── File Reading
-├── File Append
-└── Projects
+│   ├── FileWritingDemo.java
+│   ├── MultipleLineWriter.java
+│   ├── CharacterWriter.java
+│   ├── ASCIIWriter.java
+│   ├── InputDataWriter.java
+│   ├── FileWritingRevision.java
+│   └── README.md
 ```
 
-## Status
+---
 
-🚀 File Handling Journey Started
+## 💡 Key Learnings
 
-Progress: 25%
+- Files can be created using `File`.
+- File existence can be checked using `exists()`.
+- `FileWriter` automatically creates files if they don't exist.
+- `write(int)` writes ASCII characters.
+- `close()` is required to save data properly.
+- User input can be stored permanently inside files.
 
-## Next Topic
+---
 
-✍️ FileWriter and Writing Data To Files
+## 🚀 Upcoming Topics
+
+- File Reading
+- File Append Mode
+- BufferedReader
+- BufferedWriter
+- File Copy Programs
+- Mini File Handling Projects
+
+---
+
+## 🏆 Learning Outcome
+
+After completing this module, I can:
+
+✅ Create and manage files
+
+✅ Check file existence
+
+✅ Retrieve file information
+
+✅ Write data into files
+
+✅ Store user input permanently
+
+✅ Build basic file-based Java applications
+
+---
+
+### 👨‍💻 Java Learning Journey
+
+Part of my Core Java learning roadmap where I practice every concept through hands-on coding and maintain the progress on GitHub.
