@@ -1,34 +1,34 @@
 # ☕ Java Learning Journey
 
-> *"Learning Java one concept at a time, documenting every milestone, and building real-world applications along the way."*
+> *"Learning Java one concept at a time, documenting every milestone, and building real-world applications through consistent practice."*
 
-Welcome to my **Java Learning Journey** repository!
+Welcome to my **Java Learning Journey** repository.
 
-This repository is a complete record of my Core Java journey, where I learn every concept through hands-on coding, daily practice, revision programs, mini applications, and professional documentation.
+This repository is a complete record of my Core Java learning experience where every concept is learned through **coding, revision, mini applications, documentation, and GitHub tracking**.
 
-Instead of only completing tutorials, my goal is to understand how software is actually built by implementing every concept in code and maintaining my progress on GitHub.
+Instead of simply finishing tutorials, my goal is to build a strong programming foundation by understanding every concept deeply and implementing it in real-world scenarios.
 
 ---
 
 # 🎯 Repository Goals
 
-* Build a strong Core Java foundation
-* Practice every concept through code
-* Develop problem-solving skills
-* Document the complete learning journey
-* Prepare for desktop application development
-* Build a solid base for Flutter App Development
+* Master Core Java Fundamentals
+* Build Strong Object-Oriented Programming Skills
+* Develop Problem Solving Ability
+* Learn by Building Real Programs
+* Maintain Consistent GitHub Contributions
+* Prepare for Desktop and Mobile App Development
 
 ---
 
-# 📚 Core Java Roadmap
+# 📚 Core Java Modules
 
-## 🟢 Java Fundamentals
+## ☕ Java Fundamentals
 
 * ✅ Variables & Data Types
 * ✅ Operators
-* ✅ Type Casting
 * ✅ User Input
+* ✅ Type Casting
 * ✅ Conditional Statements
 * ✅ Loops
 * ✅ Pattern Printing
@@ -38,11 +38,11 @@ Instead of only completing tutorials, my goal is to understand how software is a
 
 ---
 
-## 🔵 Object-Oriented Programming (OOP)
+## 🏗 Object-Oriented Programming
 
 * ✅ Classes & Objects
 * ✅ Constructors
-* ✅ `this` Keyword
+* ✅ this Keyword
 * ✅ Encapsulation
 * ✅ Inheritance
 * ✅ Method Overriding
@@ -53,7 +53,7 @@ Instead of only completing tutorials, my goal is to understand how software is a
 
 ---
 
-## 🟣 Exception Handling
+## ⚠ Exception Handling
 
 * ✅ Exception Basics
 * ✅ try-catch
@@ -62,11 +62,11 @@ Instead of only completing tutorials, my goal is to understand how software is a
 * ✅ throws
 * ✅ Custom Exceptions
 * ✅ Multiple Catch Blocks
-* ✅ Real-world Exception Handling
+* ✅ Real-world Validation Programs
 
 ---
 
-## 🟠 Collections Framework
+## 📦 Collections Framework
 
 * ✅ ArrayList
 * ✅ LinkedList
@@ -75,40 +75,143 @@ Instead of only completing tutorials, my goal is to understand how software is a
 
 ---
 
-## 🟡 File Handling
+## 📂 File Handling
 
-* ✅ File Class
-* ✅ FileWriter
-* ✅ FileReader
-* ✅ File Append
-* ⏳ BufferedReader
-* ⏳ BufferedWriter
+### 📁 File Basics
+
+* File Class
+* File Information
+* Create File
+* File Existence
+
+### ✍️ File Writing
+
+* FileWriter
+* Character Writing
+* ASCII Writing
+* Multiple Line Writing
+* User Input Writing
+
+### 📖 File Reading
+
+* FileReader
+* Character Reading
+* Complete File Reading
+* Character Counter
+* Line Counter
+* File Copy
+* Case Converter
+
+### ➕ File Append
+
+* Append Mode
+* Expense History
+* Student Notes
+* Bank Transactions
+* Student Result History
+
+### 🚀 Buffered Streams
+
+* BufferedReader
+* BufferedWriter
+* readLine()
+* newLine()
+* Skip Lines
+* Read First N Lines
+* Line Number Display
 
 ---
 
-## 🔜 Upcoming Topics
+# 🛠 Mini Applications Built
 
-* 🔄 Buffered Streams
-* 🔄 Multithreading
-* 🔄 Java Swing
-* 🔄 Advanced Collections
-* 🔄 Console Projects
-* 🔄 Desktop Applications
+### ☕ Core Java
+
+* 🤖 Java Jarvis
+* 🏦 Bank Application
+* 💰 Hostel Expense Tracker
+* 🎓 Student Result Management System
+* 🧰 Student Utility Tool
+
+### 📂 File Handling
+
+* Expense History Viewer
+* Student Notes Manager
+* Student Result History
+* Bank Transaction History
+* Buffered File Reader
+* Buffered File Writer
+
+More professional applications will be added as my journey continues.
 
 ---
 
-# 🛠 Learning Methodology
-
-Every topic in this repository follows the same workflow:
+# 📂 Repository Structure
 
 ```text
-Learn Concept
+Java Journey
+│
+├── Java Fundamentals
+│   ├── Variables
+│   ├── Operators
+│   ├── User Input
+│   ├── Type Casting
+│   ├── if-else
+│   ├── Loops
+│   ├── Patterns
+│   ├── Methods
+│   ├── Arrays
+│   ├── Strings
+│   └── README.md
+│
+├── Object-Oriented Programming
+│   ├── Classes & Objects
+│   ├── Constructors
+│   ├── Encapsulation
+│   ├── Inheritance
+│   ├── Polymorphism
+│   ├── Abstraction
+│   ├── Interfaces
+│   └── README.md
+│
+├── Exception Handling
+│   ├── Basics
+│   ├── throw & throws
+│   ├── Custom Exceptions
+│   ├── Validation Programs
+│   └── README.md
+│
+├── Collections Framework
+│   ├── ArrayList
+│   ├── LinkedList
+│   ├── HashSet
+│   ├── HashMap
+│   └── README.md
+│
+├── File Handling
+│   ├── File Basics
+│   ├── File Writing
+│   ├── File Reading
+│   ├── File Append
+│   ├── BufferedReader & BufferedWriter
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+# 💡 Learning Methodology
+
+Every topic in this repository follows the same learning process.
+
+```text
+Learn Theory
       │
       ▼
-Understand Theory
+Understand Concept
       │
       ▼
-Implement Code
+Write Code
       │
       ▼
 Practice Programs
@@ -125,100 +228,46 @@ GitHub Documentation
 
 ---
 
-# 📂 Repository Structure
+# 🚀 Skills Developed
 
-```text
-Java Journey
-│
-├── Java Fundamentals
-│   ├── Variables
-│   ├── Operators
-│   ├── if-else
-│   ├── Loops
-│   ├── Patterns
-│   ├── Methods
-│   ├── Arrays
-│   ├── Strings
-│   └── README.md
-│
-├── Object-Oriented Programming
-│   ├── Classes & Objects
-│   ├── Encapsulation
-│   ├── Inheritance
-│   ├── Polymorphism
-│   ├── Abstraction
-│   ├── Interfaces
-│   └── README.md
-│
-├── Exception Handling
-│   ├── Programs
-│   └── README.md
-│
-├── Collections Framework
-│   ├── ArrayList
-│   ├── LinkedList
-│   ├── HashSet
-│   ├── HashMap
-│   └── README.md
-│
-├── File Handling
-│   ├── Basics
-│   ├── File Writing
-│   ├── File Reading
-│   ├── File Append
-│   └── README.md
-│
-└── README.md
-```
-
----
-
-# 💻 Mini Applications Built
-
-Throughout this journey, I have implemented multiple console applications to strengthen my understanding of Java concepts.
-
-### Current Applications
-
-* 🏦 Bank Application
-* 💰 Expense Tracker
-* 🎓 Student Result Management System
-* 📝 Student Notes App
-* 🤖 Java Jarvis
-* 📂 File Management Utilities
-
-More professional projects will be added as I progress through Core Java.
-
----
-
-# 🚀 Skills Gained
-
-* Problem Solving
+* Java Programming
 * Object-Oriented Programming
 * Exception Handling
+* Collections Framework
 * File Handling
-* Java Collections
-* Resource Management
+* Problem Solving
 * Console Application Development
 * Clean Code Practices
-* Git & GitHub Workflow
+* Git & GitHub
 
 ---
 
 # 📈 Current Progress
 
 ```text
-Core Java Progress
+Core Java
 
-████████████████████████░░░░ 88%
+██████████████████████████████ 100%
 
-Java Fundamentals       ✅
-OOP                     ✅
-Exception Handling      ✅
-Collections             ✅
-File Handling           ✅ (Core Concepts)
-Buffered Streams        ⏳
-Swing GUI               ⏳
-Projects                ⏳
+☑ Java Fundamentals
+
+☑ OOP
+
+☑ Exception Handling
+
+☑ Collections Framework
+
+☑ File Handling
+
+☑ Buffered Streams
+
+Next →
+
+🏗 Professional Console Projects
+
+🖥 Java Swing
+
+📱 Flutter Development
 ```
 
 ---
@@ -226,19 +275,16 @@ Projects                ⏳
 # 🎯 Future Roadmap
 
 ```text
-Core Java
+Core Java ✅
       │
       ▼
-Java Console Projects
+Professional Console Projects
       │
       ▼
 Java Swing
       │
       ▼
 Desktop Applications
-      │
-      ▼
-Advanced Java
       │
       ▼
 Dart
@@ -252,11 +298,23 @@ Production Ready Mobile Apps
 
 ---
 
-# 🏆 Learning Philosophy
+# 🏆 Learning Outcome
 
-I believe programming is learned by **building**, not by memorizing.
+After completing this repository, I can confidently:
 
-Every concept in this repository is accompanied by coding practice, revision, experimentation, and documentation. My objective is not just to finish Core Java, but to develop the mindset of a software developer through consistent practice and continuous improvement.
+✅ Write clean Java programs
+
+✅ Apply Object-Oriented Programming concepts
+
+✅ Handle runtime exceptions
+
+✅ Work with Java Collections
+
+✅ Perform efficient File Handling
+
+✅ Build real-world console applications
+
+✅ Document projects professionally on GitHub
 
 ---
 
@@ -265,23 +323,31 @@ Every concept in this repository is accompanied by coding practice, revision, ex
 ```text
 Repository : Java Learning Journey
 
-Status     : 🚀 Active Development
-
 Language   : Java
 
-Learning   : Daily
+Status     : ✅ Core Java Completed
+
+Next Phase : Console Projects → Swing → Flutter
+
+Maintained By : Ansh Rastogi
 ```
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About the Author
 
-Hi, I'm **Ansh Rastogi**.
+## Ansh Rastogi
 
-I'm currently focused on mastering **Core Java**, **Data Structures & Algorithms**, and **Software Development** by building projects and documenting my progress consistently on GitHub.
+B.Tech Computer Science Student passionate about software development, problem solving, and continuous learning.
 
-My long-term goal is to become a professional **Flutter App Developer**, and this repository represents the foundation of that journey.
+This repository documents my complete Core Java journey through daily coding practice, project-based learning, and GitHub documentation. My long-term goal is to become a professional Flutter App Developer by building a strong programming foundation first.
 
 ---
 
-⭐ *Every commit in this repository represents one more step toward becoming a better software developer.*
+<div align="center">
+
+### ⭐ "Consistency beats motivation. Every commit is one step closer to mastery."
+
+**☕ Learn • Code • Build • Repeat 🚀**
+
+</div>
